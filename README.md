@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ColeWardReal
+- 👋 Hi, I’m Cole
 - 👀 I’m interested in Nueral Networks, Python, and Data Science
 - 🌱 I’m currently learning, Pytorch, R, C, and furthering my knowledge in Python
 - 💞️ I’m looking to collaborate on, anything, let me know!
